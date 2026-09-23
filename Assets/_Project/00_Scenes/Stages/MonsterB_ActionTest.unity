@@ -234,42 +234,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
-      propertyPath: walkFrames.Array.size
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
-      propertyPath: attack2Frames.Array.size
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
-      propertyPath: walkFrames.Array.data[6]
-      value: 
-      objectReference: {fileID: 21300000, guid: bf30235c4d7f78d4c9e3297743e16c31, type: 3}
-    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
-      propertyPath: walkFrames.Array.data[7]
-      value: 
-      objectReference: {fileID: 21300000, guid: bca804e5bdc207044b4868bb9b7c0bac, type: 3}
-    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
-      propertyPath: walkFrames.Array.data[8]
-      value: 
-      objectReference: {fileID: 21300000, guid: 4e124723385a29f45b682889de689cfa, type: 3}
-    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
-      propertyPath: walkFrames.Array.data[9]
-      value: 
-      objectReference: {fileID: 21300000, guid: b55e4887157dfea469eb6e0754f33e50, type: 3}
-    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
-      propertyPath: walkFrames.Array.data[10]
-      value: 
-      objectReference: {fileID: 21300000, guid: aaca677747e4aba4a94c58675b927f04, type: 3}
-    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
-      propertyPath: walkFrames.Array.data[11]
-      value: 
-      objectReference: {fileID: 21300000, guid: 8d49fe018b41619419edf91fc25fd10e, type: 3}
-    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
-      propertyPath: walkFrames.Array.data[12]
-      value: 
-      objectReference: {fileID: 21300000, guid: 70820e771581e9a4293cf794e71550a4, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
