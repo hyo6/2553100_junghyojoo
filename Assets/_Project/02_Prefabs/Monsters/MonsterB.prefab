@@ -398,6 +398,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 7610e44210efa7b48b2df577881f018a, type: 3}
   - {fileID: 21300000, guid: 6c4f3a14cc7481047bbab48dd9109044, type: 3}
   - {fileID: 21300000, guid: 934749e52f2961040b96612037ca6220, type: 3}
+  - {fileID: 21300000, guid: 7a6d3b43dcb4a1a49a02000c810a7dda, type: 3}
+  - {fileID: 21300000, guid: fab852101d337c240875a6fdda7823cc, type: 3}
   reverseWalkFrameOrder: 1
   idleFrameTimes: []
   walkFrameTimes: []
