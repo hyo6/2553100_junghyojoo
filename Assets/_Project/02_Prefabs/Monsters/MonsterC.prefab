@@ -268,7 +268,7 @@ MonoBehaviour:
   hitFrameTimes: []
   deathFrameTimes: []
   attack1Sfx:
-    clip: {fileID: 8300000, guid: bc5da74bcfb16544ca2f0eb87acba661, type: 3}
+    clip: {fileID: 8300000, guid: 602bf3b185a88544189ced431e915e41, type: 3}
     volume: 1
     pitchVariance: 0.05
   attack2Sfx:

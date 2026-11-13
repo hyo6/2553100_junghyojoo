@@ -133,7 +133,7 @@ MonoBehaviour:
   showDuration: 1
   flightDuration: 0.45
   flySfx:
-    clip: {fileID: 8300000, guid: 98a1d371f1671454fb86988a874be41e, type: 3}
+    clip: {fileID: 8300000, guid: 32b3a00567205a143a77455887af76ae, type: 3}
     volume: 1
     pitchVariance: 0.05
 --- !u!1 &4909651795036989456

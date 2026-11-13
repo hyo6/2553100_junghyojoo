@@ -183,7 +183,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: bbfa598819ea4e10941cd0ccd8d046d7, type: 3}
   - {fileID: 21300000, guid: 58c973e7ea624ca59148ac898837da78, type: 3}
   - {fileID: 21300000, guid: cfae7e947c714fc099090edb1e697ccc, type: 3}
-  - {fileID: 21300000, guid: 1b57aaa5888e4c1f8be88e50cd2c26c2, type: 3}
   hitFrames:
   - {fileID: 21300000, guid: 093842fbdbb744a68cd3b599aec1d46d, type: 3}
   - {fileID: 21300000, guid: 77625091bcb642299a7a80276771301a, type: 3}
